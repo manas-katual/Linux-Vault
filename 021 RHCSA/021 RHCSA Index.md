@@ -1,0 +1,96 @@
+# RHCSA
+
+This is the Index Page of RHCSA
+
+---
+
+- 021-1 Fundamentals of Computer
+	- [[021-1-1 Operating System]]
+	- [[021-1-2 Kernel]]
+	- [[021-1-3 What is Linux]]
+	- [[021-1-4 Linux Versions]]
+	- [[021-1-5 Basic Storage Concept]]
+	- [[021-1-6 Basic Partition Layout]]
+	- [[021-1-7 Root]]
+	- [[021-1-8 Virtualization]]
+	- [[021-1-9 Basic Linux Terms]]
+	- [[021-1-11 Basic Linux Terms 2]]
+	- [[021-1-10 Basic Linux Terms 3]]
+	- [[021-1-12 Basic Linux Commands]]
+-  021-2 File Management
+	- [[021-2-1 File System]]
+	- [[021-2-2 Basic File Management]]
+	- [[021-2-3 Absolute Path]]
+	- [[021-2-4 Search Commands on Linux]]
+	- [[021-2-5 Output & Error Redirection]]
+	- [[021-2-6 Text editor]]
+	- [[021-2-7 Vim Editor]]
+	- [[021-2-8 Data backup and archiving using tar]]
+- 021-3 User Management
+	- [[021-3-1 User Management]]
+	- [[021-3-2 Basic User Management Commands]] 
+	- [[021-3-3 Password Aging Policies]]
+	- [[021-3-4 Group management]]
+	- [[021-3-5 Advance User Management]]
+		- [[021-3-5-1 Advance User Management 2]]
+		- [[021-3-5-2 Advance User Management 3]]
+		- [[021-3-5-3 Advance User Management 4]]
+		- [[021-3-5-4 Advance User Management 5]]
+		- [[021-3-5-5 Advance User Management 6]]
+		- [[021-3-5-6 Advance User Management 7]]
+	- [[021-3-6 Data Security]]
+		- [[021-3-6-1 Directory Permission]]
+		- [[021-3-6-2 Directory Permission 2]]
+		- [[021-3-6-3 Directory Permission 3]]
+		- [[021-3-6-4 Directory Permission 4]]
+		- [[021-3-6-5 File Permissions]]
+		- [[021-3-6-6 File Access List (FACL)]]
+		- [[021-3-6-7 Special Permission]]
+			- [[021-3-6-7-1 SGID]]
+			- [[021-3-6-7-2 SUID]]
+			- [[021-3-6-7-3 Attributes]]
+- 021-4 Shell Scripting
+	- [[021-4-1 Shell Scripting]]
+	- [[021-4-2 Variables]]
+- 021-5 Crontab
+	- [[021-5 -1 Crontab (Task Scheduler)]]
+- 021-6 Accessing DVD ROM
+	- [[021-6-1 Accessing DVD ROM]]
+	- [[021-6-2 Creating and Accessing ISO image]]
+- 021-7 Software Management
+	- [[021-7-1 Software Management]]
+	- [[021-7-2 Source code (Tarball) method]]
+	- [[021-7-3 Package method]]
+		- [[021-7-3-1 RPM installer vs DNF installer]]
+- 021-8 Process Management
+	- [[021-8-1 Process Management]]
+	- [[021-8-2 Process part 2]]
+	- [[021-8-3 Process part 3]]
+	- [[021-8-4 Process Types]]
+	- [[021-8-5 Process Termination and Sigterms]]
+	- [[021-8-6 Process Commands]]
+- 021-9 Service Management
+	- [[021-9-1 Service Management]]
+	- [[021-9-2 Run Levels]]
+	- [[021-9-3 Targets]]
+- 021-10 Root Password
+	- [[021-10-1 Root Password]]
+- 021-11 Inode Number & Symlinks and Hard Links
+	- [[021-11-1 Inode Number]]
+	- [[021-11-2 Symlinks and HardLinks]]
+- 021-12 Boot Process
+	- [[021-12-1 Boot Process]]
+- 021-13 Networking
+	- [[021-13-1 Basics of Networking]]
+	- [[021-13-2 Link Aggregation]]
+	- [[021-13-3 Port numbers and sockets]]
+	- [[021-13-4 Remote Services]]
+	- [[021-13-5 Secure Shell (SSH)]]
+- 021-14 Storage
+	- [[021-14-1 Storage]]
+	- [[021-14-2 DAS device access]]
+	- [[021-14-3 Device drivers]]
+	- [[021-14-4 Hard Drives]]
+	- [[021-14-5 Storage commands]]
+	- [[021-14-6 Quota Management]]
+	- [[021-14-7 Swap Management]]
