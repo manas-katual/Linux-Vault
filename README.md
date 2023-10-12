@@ -1,2 +1,2 @@
 # Linux-Vault
-This repo contains Linux notes
+This repo contains all Linux notes
